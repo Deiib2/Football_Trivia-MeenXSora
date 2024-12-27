@@ -1,0 +1,71 @@
+body{
+    background: url(psg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.bu{
+    border: solid #aa00aa 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background: transparent;
+}
+#a{
+    position: fixed;
+    left: 360px;
+    top: 400px;
+}
+#b{
+    position: fixed;
+    left: 340px;
+    top: 180px;
+}
+#c{
+    position: fixed;
+    left: 530px;
+    top: 400px;
+}
+#d{
+    position: fixed;
+    left: 710px;
+    top: 300px;
+}
+#e{
+    position: fixed;
+    left: 890px;
+    top: 300px;
+}
+#f{
+    position: fixed;
+    left: 180px;
+    top: 380px;
+}
+#g{
+    position: fixed;
+    left: 520px;
+    top: 180px;
+}
+#h{
+    position: fixed;
+    left: 670px;
+    top: 180px;
+}
+#i{
+    position: fixed;
+    left: 800px;
+    top: 180px;
+}
+#j{
+    position: fixed;
+    left: 70px;
+    top: 180px;
+}
+#k{
+    position: fixed;
+    left: 200px;
+    top: 180px;
+}
+.bu:hover{
+    cursor: pointer;
+}

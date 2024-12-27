@@ -1,0 +1,71 @@
+body{
+    background: url(roma.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bu{
+    border: solid #aa00aa 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background: transparent;
+}
+#a{
+    position: fixed;
+    left: 270px;
+    top: 490px;
+}
+#b{
+    position: fixed;
+    left: 390px;
+    top: 190px;
+}
+#c{
+    position: fixed;
+    left: 500px;
+    top: 490px;
+}
+#d{
+    position: fixed;
+    left: 710px;
+    top: 490px;
+}
+#e{
+    position: fixed;
+    left: 920px;
+    top: 490px;
+}
+#f{
+    position: fixed;
+    left: 270px;
+    top: 190px;
+}
+#g{
+    position: fixed;
+    left: 570px;
+    top: 190px;
+}
+#h{
+    position: fixed;
+    left: 730px;
+    top: 190px;
+}
+#i{
+    position: fixed;
+    left: 900px;
+    top: 190px;
+}
+#j{
+    position: fixed;
+    left: 1060px;
+    top: 190px;
+}
+#k{
+    position: fixed;
+    left: 1250px;
+    top: 190px;
+}
+.bu:hover{
+    cursor: pointer;
+}

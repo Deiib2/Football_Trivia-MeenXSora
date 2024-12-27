@@ -1,0 +1,71 @@
+body{
+    background: url(atalanta_23-24.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bu{
+    border: solid #aa00aa 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background: transparent;
+}
+#a{
+    position: fixed;
+    left: 360px;
+    top: 400px;
+}
+#b{
+    position: fixed;
+    left: 340px;
+    top: 140px;
+}
+#c{
+    position: fixed;
+    left: 530px;
+    top: 400px;
+}
+#d{
+    position: fixed;
+    left: 710px;
+    top: 400px;
+}
+#e{
+    position: fixed;
+    left: 890px;
+    top: 400px;
+}
+#f{
+    position: fixed;
+    left: 1080px;
+    top: 420px;
+}
+#g{
+    position: fixed;
+    left: 520px;
+    top: 140px;
+}
+#h{
+    position: fixed;
+    left: 700px;
+    top: 140px;
+}
+#i{
+    position: fixed;
+    left: 850px;
+    top: 140px;
+}
+#j{
+    position: fixed;
+    left: 1000px;
+    top: 140px;
+}
+#k{
+    position: fixed;
+    left: 1150px;
+    top: 140px;
+}
+.bu:hover{
+    cursor: pointer;
+}

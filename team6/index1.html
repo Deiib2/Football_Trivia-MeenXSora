@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team6</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/719bb380af.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <button id="a" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="b" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="c" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="d" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="e" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="f" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="g" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="h" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="i" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="j" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <button id="k" class="bu" onclick="changeColor(this)">
+        <i class="fa-solid fa-check fa-2xl" style="color: white;"></i>
+    </button>
+    <script>
+        function changeColor(button) {
+            console.log("clicked");
+            console.log(button.style.background);
+            if(button.style.background === "transparent" || button.style.background === ""){
+                button.style.background = "#b426c1";
+            }
+            else {
+                button.style.background = "transparent";
+            }
+        }
+    </script>
+</body>
+</html>

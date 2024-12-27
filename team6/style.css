@@ -1,0 +1,71 @@
+body{
+    background: url(france98.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bu{
+    border: solid #aa00aa 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background: transparent;
+}
+#a{
+    position: fixed;
+    left: 160px;
+    top: 500px;
+}
+#b{
+    position: fixed;
+    left: 160px;
+    top: 240px;
+}
+#c{
+    position: fixed;
+    left: 430px;
+    top: 580px;
+}
+#d{
+    position: fixed;
+    left: 710px;
+    top: 570px;
+}
+#e{
+    position: fixed;
+    left: 890px;
+    top: 580px;
+}
+#f{
+    position: fixed;
+    left: 1080px;
+    top: 580px;
+}
+#g{
+    position: fixed;
+    left: 420px;
+    top: 240px;
+}
+#h{
+    position: fixed;
+    left: 700px;
+    top: 240px;
+}
+#i{
+    position: fixed;
+    left: 900px;
+    top: 240px;
+}
+#j{
+    position: fixed;
+    left: 1350px;
+    top: 240px;
+}
+#k{
+    position: fixed;
+    left: 1150px;
+    top: 240px;
+}
+.bu:hover{
+    cursor: pointer;
+}

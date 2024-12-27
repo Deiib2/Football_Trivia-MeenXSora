@@ -1,0 +1,70 @@
+body{
+    background: url(zamalek.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bu{
+    border: solid #aa00aa 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background: transparent;
+}
+#a{
+    position: fixed;
+    left: 60px;
+    top: 300px;
+}
+#b{
+    position: fixed;
+    left: 340px;
+    top: 140px;
+}
+#c{
+    position: fixed;
+    left: 240px;
+    top: 300px;
+}
+#d{
+    position: fixed;
+    left: 380px;
+    top: 300px;
+}
+#e{
+    position: fixed;
+    left: 590px;
+    top: 300px;
+}
+#f{
+    position: fixed;
+    left: 750px;
+    top: 320px;
+}
+#g{
+    position: fixed;
+    left: 520px;
+    top: 140px;
+}
+#h{
+    position: fixed;
+    left: 650px;
+    top: 140px;
+}
+#i{
+    position: fixed;
+    left: 800px;
+    top: 140px;
+}
+#j{
+    position: fixed;
+    left: 120px;
+    top: 140px;
+}
+#k{
+    position: fixed;
+    left: 250px;
+    top: 140px;
+}
+.bu:hover{
+    cursor: pointer;
+}
